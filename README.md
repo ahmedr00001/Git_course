@@ -1,2 +1,3 @@
 # Git_course
-Test Repo 
+simple readme file
+##notes is here
